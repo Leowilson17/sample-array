@@ -18,4 +18,4 @@ if(a[i] > a[j]){
 }
 }
 } 
-console.log(pass);
+console.log('Greater Number in Array: ',pass);
